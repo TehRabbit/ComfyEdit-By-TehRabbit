@@ -6,6 +6,7 @@
 ---
 
 ⚠️*BetterDiscord needs to be installed for this to work*⚠️
+
 BetterDiscord Download: https://betterdiscord.app
 
 ---
