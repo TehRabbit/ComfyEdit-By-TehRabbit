@@ -1,6 +1,6 @@
 # ComfyEdit-By-TehRabbit
-**My version of the BetterDiscord Comfy theme, feel free to use!**
 ---
+**My version of the BetterDiscord Comfy theme, feel free to use!**
 *Credits to the Original Creator: NYRI4 https://github.com/NYRI4/Comfy*
 ---
 
