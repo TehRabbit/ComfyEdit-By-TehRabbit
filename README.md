@@ -3,6 +3,12 @@
 ---
 *Credits to the Original Creator: NYRI4 https://github.com/NYRI4/Comfy*
 ---
+
+⚠️*BetterDiscord needs to be installed for this to work*⚠️
+BetterDiscord Download: `https://betterdiscord.app/`
+
+---
+
 ### How to install:
 
 - Download the css file `ComfyEdit_By_Tehrabbit.theme.css`
