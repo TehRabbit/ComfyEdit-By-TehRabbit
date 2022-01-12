@@ -11,7 +11,7 @@ How to install:
 Changes:
 - Recolor change of the whole theme and accents 
 - changed profile pictures to be round
-- overall cleaner
+- Some other small changes (overall cleaner)
 
 Preview:
 ![image](https://user-images.githubusercontent.com/57992120/149061126-bfd456ad-8d48-4b05-a49c-6569c6ed1d19.png)
