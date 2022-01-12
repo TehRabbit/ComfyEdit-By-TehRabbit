@@ -4,14 +4,14 @@ My version of the BetterDiscord Comfy theme, feel free to use!
 Credits to the Original Creator: NYRI4 https://github.com/NYRI4/Comfy
 
 ### How to install:
-- Downlaod the css file (ComfyEdit_By_Tehrabbit.theme.css)
+```- Downlaod the css file (ComfyEdit_By_Tehrabbit.theme.css)
 - Import the downloaded css file into the discord themes folder
-- Done!
+- Done!```
 
 ### Changes:
-- Recolor change of the whole theme and accents 
+```- Recolor change of the whole theme and accents 
 - changed profile pictures to be round
-- Some other small changes (overall cleaner)
+- Some other small changes (overall cleaner)```
 
 ---
 
