@@ -12,7 +12,7 @@ BetterDiscord Download: https://betterdiscord.app
 ### How to install:
 
 - Download the css file `ComfyEdit_By_Tehrabbit.theme.css`
-- Open the BetterDiscord themes folder **Settings > Themes > Open Themes Folder**
+- Open the BetterDiscord themes folder **(Settings > Themes > Open Themes Folder)**
 - Import the downloaded css file into the discord themes folder
 - Done!
 
