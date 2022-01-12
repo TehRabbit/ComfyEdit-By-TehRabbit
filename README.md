@@ -1,12 +1,11 @@
 # ComfyEdit-By-TehRabbit
 **My version of the BetterDiscord Comfy theme, feel free to use!**
-
 ---
 *Credits to the Original Creator: NYRI4 https://github.com/NYRI4/Comfy*
 ---
 
 ⚠️*BetterDiscord needs to be installed for this to work*⚠️
-BetterDiscord Download: `https://betterdiscord.app/`
+BetterDiscord Download: https://betterdiscord.app
 
 ---
 
