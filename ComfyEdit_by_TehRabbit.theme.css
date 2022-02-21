@@ -18,14 +18,11 @@
 /* No scrollbars */
 aa::-webkit-scrollbar { display: none !important;}.note-3HfJZ5 { margin-right: 0; }.content-1x5b-n { margin: 0 !important; border-radius: 0; }.mainContent-u_9PKf { padding-left: 8px;}.member-3-YXUe, [id*="private-channels-"] { margin: 0; max-width: unset; }.layout-2DM8Md { border-radius: 0; padding: 0 16px;}.unread-2lAfLh { z-index: 1;}.content-1LAB8Z, .item-1tOPte { margin-right: 8px;}.scroller-2hZ97C { padding-left: 0;}.scroller-2hZ97C > .content-3YMskv, .buttons-3JBrkn, .messagesPopout-24nkyi { padding-right: 10px !important; }.inviteRow-2L02ae {border-radius: 0; padding-left: 15px;}
 
-/* Better Spotify plugin seek bar */
-
-
 :root {
 /* -- Others settings -- */
 
 /* Background image in status picker */
---status-background: url('file:///C:/Users/adyar/Desktop/japaneese%20carton/taki%20on%20bridge.jpeg');
+--status-background: url('https://c.tenor.com/bUzU0dsnQBkAAAAC/sword-art-online-kirito.gif');
 
 /* User button spacing */
 --user-buttons-spacing: 8px;
@@ -73,7 +70,7 @@ aa::-webkit-scrollbar { display: none !important;}.note-3HfJZ5 { margin-right: 0
 /* Status color */
 --online: #1fb56f;
 --iddle: #FAA61A;
---dnd: #f44c7f;
+--dnd: #c51449;
 --offline: #747F8D;
 
 /* Circles next to role names */
@@ -86,7 +83,7 @@ aa::-webkit-scrollbar { display: none !important;}.note-3HfJZ5 { margin-right: 0
 --discord-logo: none; /* Set it to "block" if you want it */
 
 }
- 
+
 .theme-dark {
     --background-tertiary: #131314;
     --background-secondary: #19191b;
@@ -130,3 +127,4 @@ aa::-webkit-scrollbar { display: none !important;}.note-3HfJZ5 { margin-right: 0
     --header-secondary: #b1b5b9;
     --text-normal: #8e9297;
 }
+
